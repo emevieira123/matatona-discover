@@ -113,7 +113,7 @@ button:hover
 header
 {
   background: #2D4A22;
-  padding: 2rem 0 10rem;
+  padding: 2rem 0 8rem;
   text-align: center;
 }
 #logo
@@ -137,11 +137,12 @@ header
 /* Cards=================== */
 .card
 {
-  background: white;
+  /* background: white; */
   padding: 1.5rem 2rem;
   border-radius: 0.25rem;
   margin-bottom: 2rem;
-  color: var(--dark-blue);
+  color: white;
+  margin-top: 50px;
 }
 
 .card h3
@@ -163,7 +164,7 @@ header
 
 .card.total
 {
-  background: var(--green);
+  background: rgb(5, 171, 248);
   color: white;
 }
 
