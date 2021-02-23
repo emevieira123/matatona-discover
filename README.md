@@ -1,4 +1,4 @@
-# matatona-discover
+# Maratona Discover
 
 Projeto realizado atraves da maratona discover da Rocketseat - Instrutor Mayk Brito
 
